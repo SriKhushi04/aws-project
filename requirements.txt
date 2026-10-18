@@ -1,0 +1,10 @@
+# Core AWS SDK
+boto3>=1.34.0
+
+# HTTP Client (Simulator and Integration Testing)
+requests>=2.31.0
+
+# Testing & AWS Mocking (Offline Unit Tests)
+pytest>=8.0.0
+moto[dynamodb,s3,sns]>=5.0.0
+

@@ -1,0 +1,111 @@
+[
+  {
+    "bin_id": "BIN-001",
+    "location_name": "Periyar Central Library Plaza",
+    "latitude": 12.9698,
+    "longitude": 79.1559,
+    "capacity_liters": 120,
+    "initial_fill": 35.0,
+    "fill_rate_per_hour": 5.0
+  },
+  {
+    "bin_id": "BIN-002",
+    "location_name": "Technology Tower (TT) Food Court",
+    "latitude": 12.9705,
+    "longitude": 79.1595,
+    "capacity_liters": 150,
+    "initial_fill": 62.0,
+    "fill_rate_per_hour": 8.5
+  },
+  {
+    "bin_id": "BIN-003",
+    "location_name": "Silver Jubilee Tower (SJT) Entrance",
+    "latitude": 12.9718,
+    "longitude": 79.1645,
+    "capacity_liters": 120,
+    "initial_fill": 72.0,
+    "fill_rate_per_hour": 7.0
+  },
+  {
+    "bin_id": "BIN-004",
+    "location_name": "Main Building (MB) Quadrangle",
+    "latitude": 12.9692,
+    "longitude": 79.1560,
+    "capacity_liters": 100,
+    "initial_fill": 25.0,
+    "fill_rate_per_hour": 4.0
+  },
+  {
+    "bin_id": "BIN-005",
+    "location_name": "Anna Auditorium North Gate",
+    "latitude": 12.9710,
+    "longitude": 79.1637,
+    "capacity_liters": 120,
+    "initial_fill": 82.0,
+    "fill_rate_per_hour": 9.0
+  },
+  {
+    "bin_id": "BIN-006",
+    "location_name": "Gazebo Canteen Hub",
+    "latitude": 12.9708,
+    "longitude": 79.1578,
+    "capacity_liters": 150,
+    "initial_fill": 50.0,
+    "fill_rate_per_hour": 6.5
+  },
+  {
+    "bin_id": "BIN-007",
+    "location_name": "SMV Academic Block Courtyard",
+    "latitude": 12.9700,
+    "longitude": 79.1600,
+    "capacity_liters": 100,
+    "initial_fill": 40.0,
+    "fill_rate_per_hour": 4.5
+  },
+  {
+    "bin_id": "BIN-008",
+    "location_name": "Outdoor Stadium Pavilion",
+    "latitude": 12.9725,
+    "longitude": 79.1580,
+    "capacity_liters": 120,
+    "initial_fill": 30.0,
+    "fill_rate_per_hour": 3.5
+  },
+  {
+    "bin_id": "BIN-009",
+    "location_name": "Men's Hostel Block D Quad",
+    "latitude": 12.9730,
+    "longitude": 79.1620,
+    "capacity_liters": 150,
+    "initial_fill": 78.0,
+    "fill_rate_per_hour": 8.0
+  },
+  {
+    "bin_id": "BIN-010",
+    "location_name": "Ladies Hostel (LH) Gate 1",
+    "latitude": 12.9680,
+    "longitude": 79.1570,
+    "capacity_liters": 120,
+    "initial_fill": 55.0,
+    "fill_rate_per_hour": 5.5
+  },
+  {
+    "bin_id": "BIN-011",
+    "location_name": "Campus Health Center & Pharmacy",
+    "latitude": 12.9695,
+    "longitude": 79.1585,
+    "capacity_liters": 80,
+    "initial_fill": 18.0,
+    "fill_rate_per_hour": 2.5
+  },
+  {
+    "bin_id": "BIN-012",
+    "location_name": "Swimming Pool & Sports Complex",
+    "latitude": 12.9722,
+    "longitude": 79.1592,
+    "capacity_liters": 100,
+    "initial_fill": 45.0,
+    "fill_rate_per_hour": 4.0
+  }
+]
+

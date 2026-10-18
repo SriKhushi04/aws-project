@@ -1,0 +1,12 @@
+{
+  "readings": [
+    {
+      "bin_id": "BIN-001",
+      "location_name": "Campus Library Courtyard",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "fill_level": 86.4,
+      "timestamp": 1760721300000
+    }
+  ]
+}
